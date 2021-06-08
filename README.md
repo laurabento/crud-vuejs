@@ -2,6 +2,8 @@
 
 A space for you note your appointments and never miss one. In this application you can create, delete and edit your appointment, also you can see all of then to organize your day.
 
+![Desktop design preview](./preview/preview-1.png)
+
 ## 🏁 To use the application
 
 ### Install dependencies
